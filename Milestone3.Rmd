@@ -1,0 +1,34 @@
+---
+title: "Milestone3"
+author: "Mengxi Tan"
+date: "10/4/2019"
+output: html_document
+---
+
+## Raw data source
+My raw data comes from two sources: 
+
+1. Homeland Security: 
+https://www.dhs.gov/immigration-statistics/yearbook
+
+    covering annual immigration count by different characteristics (visa type, country of origin etc.)
+
+2. American Fact Finder(US Census Bureau): https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#none
+
+    covering US resident census data(immigration status, income, household size, age etc.)
+
+## What I have done with the data
+
+I have examined both datasets in details, and listed variables that might be of my interest. For the Homeland Security data, I'd like to examine admission type by country of origin, and discovered that such data is available during 2007 - 2017. Therefore, I would choose this ten-year period for both datasets.
+
+## Plan for visualizing data
+
+I still need to think more about the details, but the overall idea is to tell a story of how immigration to US has changed over the ten year period, and how well the immigrants are settling down in the US. The immigration change will be visualized using Homeland Security data, while the well-being of immigrant communities will be visualized through the US Census Bureau one. 
+
+
+
+
+
+
+
+
